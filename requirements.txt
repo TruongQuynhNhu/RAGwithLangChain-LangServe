@@ -1,0 +1,17 @@
+numpy
+langchain
+langchain-community
+torch
+torchvision
+pypdf
+gpt4all
+faiss-cpu
+openai
+langchain_openai
+langserve
+langchainhub
+sse_starlette
+pydantic==1.10.13
+beautifulsoup4
+anthropic
+"langserve[all]"
